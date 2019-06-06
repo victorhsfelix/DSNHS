@@ -1,0 +1,289 @@
+.a{
+	margin: -10px auto 0px auto;
+	width:1330px;
+	height:1140px;
+	position: absolute;
+	background-image: url(../img/prism.png);
+	border: solid black 5px;
+	box-shadow: 0px 0px 10px black;
+}
+.b{
+	width:1329px;
+	height:100px;
+	position: relative;
+	border: solid black 2px;
+	border-bottom: 1px solid #606060;
+}
+.c{
+	color: white;
+	width: 200px;
+	height: 1035px;
+	border: solid black 5px;
+	border-top: 1px solid #606060;
+	position: relative;
+	display: inline-figure;
+}
+.d{
+	color: white;
+	margin: -10px auto 0px auto;
+	width:1330px;
+	height:600px;
+	position: absolute;
+	background-image: url(../img/prism.png);
+	border: solid black 5px;
+	box-shadow: 0px 0px 10px black;
+}
+figure.foto{
+	position:absolute;
+	top:-17px;
+	left:-40px;
+	display: inline-block;
+}
+
+figure.foto figcaption{
+	opacity: 0;
+	position: absolute;
+	top:0px;
+	background-color: rgba(0,0,0,.4);
+	color: white;
+	width: 100%;
+	height: 100%;
+	box-sizing: border-box;
+	transition: opacity 1s;
+}
+figure.foto:hover figcaption{
+	opacity: 1;
+}
+figure.foto2{
+	position:absolute;
+	top:183px;
+	left:-40px;
+	display: inline-block;
+}
+
+figure.foto2 figcaption{
+	opacity: 0;
+	position: absolute;
+	top:0px;
+	background-color: rgba(0,0,0,.4);
+	color: white;
+	width: 100%;
+	height: 100%;
+	box-sizing: border-box;
+	transition: opacity 1s;
+}
+figure.foto2:hover figcaption{
+	opacity: 1;
+}
+figure.foto3{
+	position:absolute;
+	top:380px;
+	left:-40px;
+	display: inline-block;
+}
+
+figure.foto3 figcaption{
+	opacity: 0;
+	position: absolute;
+	top:0px;
+	background-color: rgba(0,0,0,.4);
+	color: white;
+	width: 100%;
+	height: 100%;
+	box-sizing: border-box;
+	transition: opacity 1s;
+}
+figure.foto3:hover figcaption{
+	opacity: 1;
+}
+figure.foto4{
+	position:absolute;
+	top:580px;
+	left:-40px;
+	display: inline-block;
+}
+figure.foto4 figcaption{
+	opacity: 0;
+	position: absolute;
+	top:0px;
+	background-color: rgba(0,0,0,.4);
+	color: white;
+	width: 100%;
+	height: 100%;
+	box-sizing: border-box;
+	transition: opacity 1s;
+}
+figure.foto4:hover figcaption{
+	opacity: 1;
+}
+figure.foto5{
+	position:absolute;
+	top:780px;
+	left:-40px;
+	display: inline-block;
+}
+figure.foto5 figcaption{
+	opacity: 0;
+	position: absolute;
+	top:0px;
+	background-color: rgba(0,0,0,.4);
+	color: white;
+	width: 100%;
+	height: 100%;
+	box-sizing: border-box;
+	transition: opacity 1s;
+}
+figure.foto5:hover figcaption{
+	opacity: 1;
+}
+nav#menu{
+	display: block;
+}
+nav#menu ul{
+	list-style: none;
+	text-transform: uppercase;
+	position: absolute;
+	top: 15px;
+	left: 450px;
+}
+nav#menu li{
+	display: inline-block;
+	background-color: #dddddd;
+	padding: 10px;
+	margin: 2px;
+}
+figure.video{
+	position:absolute;
+	top:100px;
+	left:300px;
+}
+figure.video img{
+	width:400px;
+	height:200px;
+}
+figure.video figcaption{
+	position: absolute;
+	top:0px;
+	left:500px;
+	background-color: rgba(0,0,0,.4);
+	color: white;
+	width: 100%;
+	height: 100%;
+	box-sizing: border-box;
+}
+figure.gif{
+	position: absolute;
+	top: -15px;
+	left: -40px;
+}
+figure.gif img{
+	opacity: 0;
+	width:400px;
+	height:200px;
+	transition: opacity 1s;
+}
+figure.gif:hover img{
+	opacity: 1;
+}
+figure.video2{
+	position:absolute;
+	top:350px;
+	left:300px;
+}
+figure.video2 img{
+	width:400px;
+	height:200px;
+}
+figure.video2 figcaption{
+	position: absolute;
+	top:0px;
+	left:500px;
+	background-color: rgba(0,0,0,.4);
+	color: white;
+	width: 100%;
+	height: 100%;
+	box-sizing: border-box;
+}
+figure.gif2{
+	position: absolute;
+	top: -15px;
+	left: -40px;
+}
+figure.gif2 img{
+	opacity: 0;
+	width:400px;
+	height:200px;
+	transition: opacity 1s;
+}
+figure.gif2:hover img{
+	opacity: 1;
+}
+figure.video3{
+	position:absolute;
+	top:600px;
+	left:300px;
+}
+figure.video3 img{
+	width:400px;
+	height:200px;
+}
+figure.video3 figcaption{
+	position: absolute;
+	top:0px;
+	left:500px;
+	background-color: rgba(0,0,0,.4);
+	color: white;
+	width: 100%;
+	height: 100%;
+	box-sizing: border-box;
+}
+figure.gif3{
+	position: absolute;
+	top: -15px;
+	left: -40px;
+}
+figure.gif3 img{
+	opacity: 0;
+	width:400px;
+	height:200px;
+	transition: opacity 1s;
+}
+figure.gif3:hover img{
+	opacity: 1;
+}
+figure.video4{
+	position:absolute;
+	top:850px;
+	left:300px;
+}
+figure.video4 img{
+	width:400px;
+	height:200px;
+}
+figure.video4 figcaption{
+	position: absolute;
+	top:0px;
+	left:500px;
+	background-color: rgba(0,0,0,.4);
+	color: white;
+	width: 100%;
+	height: 100%;
+	box-sizing: border-box;
+}
+figure.gif4{
+	position: absolute;
+	top: -15px;
+	left: -40px;
+}
+figure.gif4 img{
+	opacity: 0;
+	width:400px;
+	height:200px;
+	transition: opacity 1s;
+}
+figure.gif4:hover img{
+	opacity: 1;
+}
+.tabela{
+
+}
